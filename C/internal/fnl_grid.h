@@ -24,7 +24,7 @@
 #ifndef FNL_INTERNAL_GRID_H
 #define FNL_INTERNAL_GRID_H
 
-#include "hashing.h"
+#include "fnl_hashing.h"
 
 
 static float _fnlSinglePerlin2D(int seed, FNLfloat x, FNLfloat y)

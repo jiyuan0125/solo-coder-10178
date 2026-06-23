@@ -24,7 +24,7 @@
 #ifndef FNL_INTERNAL_CELLULAR_H
 #define FNL_INTERNAL_CELLULAR_H
 
-#include "hashing.h"
+#include "fnl_hashing.h"
 
 
 static float _fnlSingleCellular2D(const fnl_state *state, int seed, FNLfloat x, FNLfloat y)

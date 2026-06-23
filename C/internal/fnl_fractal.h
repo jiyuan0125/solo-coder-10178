@@ -24,7 +24,7 @@
 #ifndef FNL_INTERNAL_FRACTAL_H
 #define FNL_INTERNAL_FRACTAL_H
 
-#include "dispatch.h"
+#include "fnl_dispatch.h"
 
 static float _fnlGenFractalFBM2D(const fnl_state *state, FNLfloat x, FNLfloat y)
 {

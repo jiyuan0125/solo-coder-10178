@@ -24,7 +24,7 @@
 #ifndef FNL_INTERNAL_DOMAINWARP_H
 #define FNL_INTERNAL_DOMAINWARP_H
 
-#include "fractal.h"
+#include "fnl_fractal.h"
 
 
 // Forward declare

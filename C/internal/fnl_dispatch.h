@@ -24,10 +24,10 @@
 #ifndef FNL_INTERNAL_DISPATCH_H
 #define FNL_INTERNAL_DISPATCH_H
 
-#include "opensimplex2.h"
-#include "opensimplex2s.h"
-#include "cellular.h"
-#include "grid.h"
+#include "fnl_opensimplex2.h"
+#include "fnl_opensimplex2s.h"
+#include "fnl_cellular.h"
+#include "fnl_grid.h"
 
 static float _fnlGenNoiseSingle2D(const fnl_state *state, int seed, FNLfloat x, FNLfloat y)
 {

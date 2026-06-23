@@ -24,7 +24,7 @@
 #ifndef FNL_INTERNAL_OPENSIMPLEX2S_H
 #define FNL_INTERNAL_OPENSIMPLEX2S_H
 
-#include "hashing.h"
+#include "fnl_hashing.h"
 
 
 static float _fnlSingleOpenSimplex2S2D(int seed, FNLfloat x, FNLfloat y)

@@ -270,17 +270,17 @@ void fnlDomainWarp3D(const fnl_state *state, FNLfloat *x, FNLfloat *y, FNLfloat 
 extern "C" {
 #endif
 
-#include "internal/constants.h"
-#include "internal/utilities.h"
-#include "internal/hashing.h"
-#include "internal/transforms.h"
-#include "internal/opensimplex2.h"
-#include "internal/opensimplex2s.h"
-#include "internal/cellular.h"
-#include "internal/grid.h"
-#include "internal/dispatch.h"
-#include "internal/fractal.h"
-#include "internal/domainwarp.h"
+#include "internal/fnl_constants.h"
+#include "internal/fnl_utilities.h"
+#include "internal/fnl_hashing.h"
+#include "internal/fnl_transforms.h"
+#include "internal/fnl_opensimplex2.h"
+#include "internal/fnl_opensimplex2s.h"
+#include "internal/fnl_cellular.h"
+#include "internal/fnl_grid.h"
+#include "internal/fnl_dispatch.h"
+#include "internal/fnl_fractal.h"
+#include "internal/fnl_domainwarp.h"
 
 fnl_state fnlCreateState()
 {

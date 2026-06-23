@@ -24,7 +24,7 @@
 #ifndef FNL_INTERNAL_TRANSFORMS_H
 #define FNL_INTERNAL_TRANSFORMS_H
 
-#include "hashing.h"
+#include "fnl_hashing.h"
 
 
 static void _fnlTransformNoiseCoordinate2D(const fnl_state *state, FNLfloat *x, FNLfloat *y)

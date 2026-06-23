@@ -24,8 +24,8 @@
 #ifndef FNL_INTERNAL_HASHING_H
 #define FNL_INTERNAL_HASHING_H
 
-#include "constants.h"
-#include "utilities.h"
+#include "fnl_constants.h"
+#include "fnl_utilities.h"
 
 
 static const int PRIME_X = 501125321;
